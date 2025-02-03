@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BlackDroid Mobile</string>
+    <string name="app_name">BlackDroid Remote</string>
 
     <string name="label_server_ip">Target Device IP address, For example: 192.168.0.78</string>
     <string name="label_video_resolution">Resolution</string>
