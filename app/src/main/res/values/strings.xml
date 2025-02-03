@@ -1,18 +1,18 @@
 <resources>
-    <string name="app_name">Scrcpy</string>
+    <string name="app_name">BlackDroid Mobile</string>
 
-    <string name="label_server_ip">Remote Device IP address, For example: 192.168.0.73</string>
+    <string name="label_server_ip">Target Device IP address, For example: 192.168.0.78</string>
     <string name="label_video_resolution">Resolution</string>
     <string name="label_video_bitrate">Bitrate</string>
     <string name="label_x">x</string>
-    <string name="action_start">Start</string>
+    <string name="action_start">Connect</string>
     <string name="appswitch_button">=</string>
     <string name="home_button">o</string>
     <string name="back_button">\u003C</string>
-    <string name="switch0">Viewing mode (no control)</string>
-    <string name="switch1">Bottom control button (back button)</string>
+    <string name="switch0">Monitor mode (no control)</string>
+    <string name="switch1">Bottom control button</string>
 
-    <string name="connect_tips">Tips: You need to enable wireless debugging on your phone\n\t\tReset adb port command: adb tcpip 5555</string>
+    <string name="connect_tips">Tips: You need to be on the same WIFI network with target device.</string>
     <string name="please_wait">Connecting …</string>
 
     <string name="connect_faild">Connection failed</string>
